@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Subhanjan Saha</h1>
 <h3 align="center">A passionate Full Stack And Machine Learning Developer from Kolkata, India</h3>
 <div style="display:flex; align-items:center">
-  <img align="right" alt="Coding" width="350" src='https://github.com/user-attachments/assets/46c5c1da-56c1-47cf-9af5-3bd672dc6e29'/>
+  <img align="right" alt="Coding" width="350" src='https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif'/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanjan-1&label=Profile%20views&color=0e75b6&style=flat" alt="subhanjan-1" /> </p>
 
-- 🔭 I’m currently working on [ProjectName]()
+- 🔭 I’m currently working on JAWAAN
 
 - 🌱 I’m currently learning **FullStack Developement**
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **node.Js, express.Js, OpenCV, LLMs**
 
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FA_daUBLKDmZ2iYaEh0qu-5_jltr8atm/view?usp=drivesdk)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
